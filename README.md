@@ -49,8 +49,12 @@ PORT=5000
 - 메시지는 그냥 두고
 - **초록색 버튼 클릭**
 
----
+cd client
+npm install
+npm start
 
-이제 README가 업데이트돼서, 누가 봐도 프로젝트 구조를 한눈에 이해할 수 있어!  
-잘 안 되면 캡처 보내줘도 되고, 내가 다시 더 도와줄게 😊
+cd server
+npm install
+npm run dev
+
 
